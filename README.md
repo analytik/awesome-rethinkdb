@@ -47,4 +47,5 @@ RethinkDB members have not committed to any particular version and date, as feat
 
 * [rethinkdbdash](https://www.npmjs.com/package/rethinkdbdash) - an alternative driver featuring connecting pooling.
 * [JS Data adapter](https://www.npmjs.com/package/js-data-rethinkdb) - allows you to use one API to query RethinkDB from Node.js as you would query REST API from a browser. 
+* [rethinkdb-init](https://www.npmjs.com/package/rethinkdb-init) - Create all RethinkDB databases, tables and indexes automatically through a schema object.
 
