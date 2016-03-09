@@ -16,6 +16,7 @@ While an obvious place to look for help, there are some essential, but often ove
 * [RethinkDB on Slack](https://rethinkdb.slack.com/messages/general/) - get help, learn tricks, talk to developers, help others.
 * [RethinkDB blog](http://rethinkdb.com/blog/) - contains news not only about RethinkDB itself, but also from the app ecosystem.
 * [RethinkDB on YouTube](https://www.youtube.com/channel/UC1kJkmSWt_snLDfuXgJnLnQ) - real user stories, presentations, future features.
+* [3rd party libraries](http://rethinkdb.com/docs/frameworks-and-libraries/) for Python, Node.js, Ruby.
 
 ### Release 2.3 - coming Q1 2016
 
@@ -32,6 +33,7 @@ RethinkDB members have not committed to any particular version and date, as feat
 * [Changefeeds on joins](https://github.com/rethinkdb/rethinkdb/issues/3997)
 * [Filtering by several indexes](https://github.com/rethinkdb/rethinkdb/issues/4150) - letting the server optimise queries
 * [Document links](https://github.com/rethinkdb/rethinkdb/issues/4853) - the first step towards graph features, reducing the need for table joins
+* [Data browser in web UI](https://github.com/rethinkdb/rethinkdb/issues/1592) 
 
 ## RethinkDB Horizon
 
@@ -43,9 +45,18 @@ RethinkDB members have not committed to any particular version and date, as feat
 * [Why not MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/) - a dated article with a timeless lesson about potential risks of storing document trees vs relational data.
 * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) List - gives you a wider context of the database world.
 
-## Node.js packages
+
+
+## Node.js
+
+### Node.js packages
 
 * [rethinkdbdash](https://www.npmjs.com/package/rethinkdbdash) - an alternative driver featuring connecting pooling.
 * [JS Data adapter](https://www.npmjs.com/package/js-data-rethinkdb) - allows you to use one API to query RethinkDB from Node.js as you would query REST API from a browser. 
 * [rethinkdb-init](https://www.npmjs.com/package/rethinkdb-init) - Create all RethinkDB databases, tables and indexes automatically through a schema object.
 
+## Java
+
+### Java template projects
+
+* [Play-RethinkDB](https://github.com/rklick-solutions/play-rethinkdb) - CRUD with Play, Scala and Bootstrap
