@@ -23,6 +23,7 @@ While an obvious place to look for help, there are some essential, but often ove
 * An official [Windows build](https://github.com/rethinkdb/rethinkdb/issues/1100)
 * [Permissions](https://github.com/rethinkdb/rethinkdb/issues/4519) - a basic user/permission structure (not aimed at browser-to-database connection, see [Horizon section](#rethinkdb-horizon) for that)
 * Encrypted connections for [drivers](https://github.com/rethinkdb/rethinkdb/issues/3158) and [clusters](https://github.com/rethinkdb/rethinkdb/issues/3151)
+* [Custom conflict resolution for inserts](https://github.com/rethinkdb/rethinkdb/issues/3753)
 
 ### Subsequent releases
 
@@ -62,6 +63,12 @@ RethinkDB members have not committed to any particular version and date, as feat
  * [blog post](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/),
  * [3REE on GitHub](https://github.com/GordyD/3ree),
  * [auth sample project](https://github.com/hoodsy/3ree-auth-example).
+
+## Python
+
+* [SageMathCloud](https://github.com/sagemathinc/smc) - Real-time collaborative math, document editing and programming
+* [BigchainDB](https://github.com/bigchaindb/bigchaindb) - Infinitely scalable blockchain database
+ * [BigchainDB whitepaper](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf) - see pages 45-46 for notes on RethinkDB
 
 ## Java
 
