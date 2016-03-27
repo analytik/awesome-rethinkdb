@@ -24,6 +24,7 @@ While an obvious place to look for help, there are some essential, but often ove
 * [Permissions](https://github.com/rethinkdb/rethinkdb/issues/4519) - a basic user/permission structure (not aimed at browser-to-database connection, see [Horizon section](#rethinkdb-horizon) for that)
 * Encrypted connections for [drivers](https://github.com/rethinkdb/rethinkdb/issues/3158) and [clusters](https://github.com/rethinkdb/rethinkdb/issues/3151)
 * [Custom conflict resolution for inserts](https://github.com/rethinkdb/rethinkdb/issues/3753)
+* [Fold](https://github.com/rethinkdb/rethinkdb/issues/3736) - reduce with a guaranteed order
 
 ### Subsequent releases
 
