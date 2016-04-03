@@ -18,7 +18,7 @@ While an obvious place to look for help, there are some essential, but often ove
 * [RethinkDB on YouTube](https://www.youtube.com/channel/UC1kJkmSWt_snLDfuXgJnLnQ) - real user stories, presentations, future features.
 * [3rd party libraries](http://rethinkdb.com/docs/frameworks-and-libraries/) for Python, Node.js, Ruby.
 
-### Release 2.3 - coming Q1 2016
+### Release 2.3 - coming April 2016
 
 * An official [Windows build](https://github.com/rethinkdb/rethinkdb/issues/1100)
 * [Permissions](https://github.com/rethinkdb/rethinkdb/issues/4519) - a basic user/permission structure (not aimed at browser-to-database connection, see [Horizon section](#rethinkdb-horizon) for that)
