@@ -18,9 +18,10 @@ While an obvious place to look for help, there are some essential, but often ove
 * [RethinkDB on YouTube](https://www.youtube.com/channel/UC1kJkmSWt_snLDfuXgJnLnQ) - real user stories, presentations, future features.
 * [3rd party libraries](http://rethinkdb.com/docs/frameworks-and-libraries/) for Python, Node.js, Ruby.
 
-### Release 2.3 - coming April 2016
+### Release 2.3 - shipped April 6th 2016
 
-* An official [Windows build](https://github.com/rethinkdb/rethinkdb/issues/1100)
+* [changelog](https://github.com/rethinkdb/rethinkdb/releases/tag/v2.3.0) and the longer [blog post](http://rethinkdb.com/blog/2.3-release/)
+* A official, but beta [Windows build](https://github.com/rethinkdb/rethinkdb/issues/1100)
 * [Permissions](https://github.com/rethinkdb/rethinkdb/issues/4519) - a basic user/permission structure (not aimed at browser-to-database connection, see [Horizon section](#rethinkdb-horizon) for that)
 * Encrypted connections for [drivers](https://github.com/rethinkdb/rethinkdb/issues/3158) and [clusters](https://github.com/rethinkdb/rethinkdb/issues/3151)
 * [Custom conflict resolution for inserts](https://github.com/rethinkdb/rethinkdb/issues/3753)
@@ -28,7 +29,7 @@ While an obvious place to look for help, there are some essential, but often ove
 
 ### Subsequent releases
 
-RethinkDB members have not committed to any particular version and date, as features are largely driven by community requests. It's likely that some of them will arrive in 2.4, around Q2/Q3 2016.
+RethinkDB members have not committed to any particular version and date, as features are largely driven by community requests. It's likely that some of them will arrive in 2.4, around Q3 2016.
 
 * [resumable changefeeds](https://github.com/rethinkdb/rethinkdb/issues/3471) - lets you to continue where you left off
 * [GraphQL support](https://github.com/rethinkdb/rethinkdb/issues/3711) - involves discussion around Horizon
