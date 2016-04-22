@@ -18,6 +18,10 @@ While an obvious place to look for help, there are some essential, but often ove
 * [RethinkDB on YouTube](https://www.youtube.com/channel/UC1kJkmSWt_snLDfuXgJnLnQ) - real user stories, presentations, future features.
 * [3rd party libraries](http://rethinkdb.com/docs/frameworks-and-libraries/) for Python, Node.js, Ruby.
 
+### Release 2.4 - coming possibly mid-2016
+* Improvements to user permission system:
+ * [rights to the system tables](https://github.com/rethinkdb/rethinkdb/issues/5692)
+
 ### Release 2.3 - shipped April 6th 2016
 
 * [changelog](https://github.com/rethinkdb/rethinkdb/releases/tag/v2.3.0) and the longer [blog post](http://rethinkdb.com/blog/2.3-release/)
