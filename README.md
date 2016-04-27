@@ -7,7 +7,11 @@
 - [Official resources](#official-resources)
 - [RethinkDB Horizon](#rethinkdb-horizon)
 - [Data modelling](#data-modelling)
-- [Node.js packages](#node-js-packages)
+- [Browser-based development resources](#browser-integrations)
+- [Node.js projects and resources](#node-js)
+- [Python projects and resources](#python)
+- [Java projects and resources](#java)
+
 
 ## Official resources
 
