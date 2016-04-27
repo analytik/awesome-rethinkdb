@@ -8,7 +8,7 @@
 - [RethinkDB Horizon](#rethinkdb-horizon)
 - [Data modelling](#data-modelling)
 - [Browser-based development resources](#browser-integrations)
-- [Node.js projects and resources](#node-js)
+- [Node.js projects and resources](#nodejs)
 - [Python projects and resources](#python)
 - [Java projects and resources](#java)
 
