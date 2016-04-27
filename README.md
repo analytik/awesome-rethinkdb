@@ -44,6 +44,7 @@ RethinkDB members have not committed to any particular version and date, as feat
 
 ## RethinkDB Horizon
 
+* [First longer official demo of Horizon](https://www.youtube.com/watch?v=Sb1lH5mvYmU)
 * [What's coming in 2016](https://youtu.be/zL5_EsF06DM?t=657) - the reasoning behind, and the first public demonstration of Horizon (briefly known as Fusion during pre-alpha).
 
 
