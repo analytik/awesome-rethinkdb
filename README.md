@@ -18,11 +18,13 @@
 While an obvious place to look for help, there are some essential, but often overlooked resources that this list would not be complete without.
 
 * [RethinkDB on Slack](https://rethinkdb.slack.com/messages/general/) - get help, learn tricks, talk to developers, help others.
+* [RethinkDB newsletter](https://rethinkdbweekly.curated.co/) - a curated list of articles about RethinkDB and Horizon
 * [RethinkDB blog](http://rethinkdb.com/blog/) - contains news not only about RethinkDB itself, but also from the app ecosystem.
 * [RethinkDB on YouTube](https://www.youtube.com/channel/UC1kJkmSWt_snLDfuXgJnLnQ) - real user stories, presentations, future features.
 * [3rd party libraries](http://rethinkdb.com/docs/frameworks-and-libraries/) for Python, Node.js, Ruby.
 
-### Release 2.4 - coming possibly mid-2016
+### Release 2.4 - coming possibly Q3 2016
+* [All features and bugs in a GitHub milestone](https://github.com/rethinkdb/rethinkdb/milestone/120)
 * Improvements to user permission system:
  * [rights to the system tables](https://github.com/rethinkdb/rethinkdb/issues/5692)
 
